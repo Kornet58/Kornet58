@@ -1,0 +1,28 @@
+{
+  "439129922": {
+    "attempts": [
+      {
+        "date": "24.07.2025 11:52",
+        "score": 1
+      },
+      {
+        "date": "24.07.2025 12:51",
+        "score": 2
+      }
+    ],
+    "best_score": 2,
+    "last_answers": [
+      {
+        "question": "Что такое Python?",
+        "answer": "Язык",
+        "is_correct": true
+      },
+      {
+        "question": "Какой тип данных используется для хранения целых чисел?",
+        "answer": "int",
+        "is_correct": true
+      }
+    ],
+    "last_date": "24.07.2025 12:51"
+  }
+}
